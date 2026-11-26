@@ -71,5 +71,6 @@ public class Ejemplo051 {
     }
 }
 /*
-lo que esta haciendo es acumulando valores
+lo que esta haciendo es acumulando valores, despues de cada nota ingresada se va 
+sumando y despues se saca el promedio 
 */

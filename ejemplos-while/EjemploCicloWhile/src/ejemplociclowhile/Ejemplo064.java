@@ -39,7 +39,8 @@ public class Ejemplo064 {
                 bandera = false;
             }
         }   
-        System.out.printf("Total de paises: %d\n%s\n", contador, reporte);
+        reporte = String.format("%sTotal paises ingresados %d\n", reporte, contador);
+        System.out.printf("%s\n", reporte);
     }
 }
 /*
